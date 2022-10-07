@@ -31,7 +31,7 @@ CodeEdit is a code editor built by the community, for the community, written ent
 | :warning: | **CodeEdit is currently in development and we do not yet offer a download.** <br> We will post a link here when we have an alpha release ready for testing. Until then, we welcome contributors to help bring this project to life. | &nbsp;&nbsp;&nbsp;&nbsp;[CONTRIBUTE](https://github.com/CodeEditApp/CodeEdit/blob/main/CONTRIBUTING.md)&nbsp;&nbsp;&nbsp;&nbsp; |
 | - |:-| - |
 
-## Table of Contents
+## Table of Contents 📋
 
 - [Motivation](#motivation)
 - [Mission](#mission)
@@ -42,11 +42,8 @@ CodeEdit is a code editor built by the community, for the community, written ent
 - [Backers](#backers)
 - [License](#license)
 
-## Why CodeEdit?
 
-We think that the looks and feel of TextEdit is really nice and to combine it with Xcode will be an awesome mix. It feels lightweight and powerful at the same time.
-
-## Motivation
+## Motivation 💪
 
 Developers that use a Mac should be able to use an editor that feels at home on the Mac. Comparable editors are built on Electron. This is a huge limitation because it cannot utilize system resources to their fullest potential.
 
@@ -56,7 +53,7 @@ Xcode offers this great native experience however it mostly supports projects wr
 
 This raised the question, what if such an editor existed? We think developers deserve a native experience. This led to the creation of [this concept](https://www.figma.com/proto/qj6raZbQsZpGO0NAVi4qsv/CodeEdit-Concept?node-id=1%3A870) which our project aims to make a reality.
 
-## Mission
+## Mission 🚀
 
 We think there is room to streamline the developer experience. To gain maximum adoption, CodeEdit should be open source, free to use, and supported by the community. 
 
@@ -68,15 +65,15 @@ Our goal is to develop an app that looks and feels like it was designed and deve
 
 It might sound crazy, but it is our hope that at some point Apple adopts this project or at least feels like they could.
 
-## Community
+## Community 👥
 
 Join our growing community on [Discord](https://discord.gg/vChUXVf9Em) where we discuss and collaborate on all things CodeEdit. Don't be shy, jump right in and be part of the discussion!
 
-## Contributing
+## Contributing 📝
 
 Be part of the next revolution in code editing by contributing to the project. This is a community-led effort, so we welcome as many contributors who can help. Read the [Contribution Guide](https://github.com/CodeEditApp/CodeEdit/blob/main/CONTRIBUTING.md) for more information.
 
-## Contributors
+## Contributors 🧑‍💻
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
